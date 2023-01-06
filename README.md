@@ -1,5 +1,5 @@
 # Hangman
-Text based hangman game that uses official but unconventionl words from the english language. Are you an English expert? Try this one!
+Text based hangman game that uses official but unconventional words from the english language. Are you an English expert? Try this one!
 
 In this project I learned:
 
